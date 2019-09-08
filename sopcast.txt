@@ -1,12 +1,18 @@
-#EXTINF:-1,Money Channel
-http://91.211.50.77:4011/udp/224.21.21.99:1234
-#EXTINF: -1,2 X2
-http://91.211.50.77:4011/udp/224.21.21.100:1234
-#EXTINF:-1,Fashion One
-http://91.211.50.77:4011/udp/224.21.21.101:1234
-#EXTINF:-1,Bloomberg European TV
-http://91.211.50.77:4011/udp/224.21.21.103:1234
-#EXTINF:-1,TV5MONDE FBS
-http://91.211.50.77:4011/udp/224.21.21.104:1234
-#EXTINF:-1,TV5MONDE EUROPE
-http://91.211.50.77:4011/udp/224.21.21.105:1234
+#EXTINF:0,Bloomberg TV
+#EXTGRP:unsorted
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+#EXTINF:0,Bloomberg TV Europe
+#EXTGRP:unsorted
+http://cdn3.videos.bloomberg.com/btv/eu/master.m3u8
+#EXTINF:-1,Antena 1 HD
+sop://broker.sopcast.com:3912/149257
+#EXTINF:-1,Antena 3
+sop://broker.sopcast.com:3912/148084
+#EXTINF:0,B1 Tv
+http://edge24.rdsnet.ro/digiedge2/b1tvehq/index.m3u8?is=29&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,Realitatea Tv
+http://edge24.rdsnet.ro/digiedge2/realitateatvehq/index.m3u8?is=26&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,Romania Tv
+http://edge24.rdsnet.ro/digiedge2/romaniatvehq/index.m3u8?is=27&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:0,France 24
+http://edge24.rdsnet.ro/digiedge2/france24ehq/index.m3u8?is=48&src=digi-online.ro&t=00000000000000000000000000000000
