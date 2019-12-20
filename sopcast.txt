@@ -16,3 +16,5 @@ http://edge24.rdsnet.ro/digiedge2/realitateatvehq/index.m3u8?is=26&src=digi-onli
 http://edge24.rdsnet.ro/digiedge2/romaniatvehq/index.m3u8?is=27&src=digi-online.ro&t=00000000000000000000000000000000
 #EXTINF:0,France 24
 http://edge24.rdsnet.ro/digiedge2/france24ehq/index.m3u8?is=48&src=digi-online.ro&t=00000000000000000000000000000000
+#EXTINF:-1,Pro TV
+sop://185.122.59.8:3912/265414
